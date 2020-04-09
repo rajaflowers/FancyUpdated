@@ -1,0 +1,11 @@
+D:\FancyPant\FancyPant\bin\Debug\FancyPant.exe.config
+D:\FancyPant\FancyPant\bin\Debug\FancyPant.exe
+D:\FancyPant\FancyPant\bin\Debug\FancyPant.pdb
+D:\FancyPant\FancyPant\obj\Debug\FancyPant.csprojResolveAssemblyReference.cache
+D:\FancyPant\FancyPant\obj\Debug\FancyPant.exe
+D:\FancyPant\FancyPant\obj\Debug\FancyPant.pdb
+D:\GitHub\FancyPant\FancyPant\bin\Debug\FancyPant.exe.config
+D:\GitHub\FancyPant\FancyPant\bin\Debug\FancyPant.exe
+D:\GitHub\FancyPant\FancyPant\bin\Debug\FancyPant.pdb
+D:\GitHub\FancyPant\FancyPant\obj\Debug\FancyPant.exe
+D:\GitHub\FancyPant\FancyPant\obj\Debug\FancyPant.pdb
